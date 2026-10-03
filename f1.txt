@@ -1,1 +1,2 @@
-hello I am JIRA
+A proper project connects these through IAM roles, SSH/service credentials, Jenkins credentials, branch protection, environment protection rules, and CI/CD approvals.
+If you want to actually build this, I can take you through it step-by-step from zero, starting with creating the GitHub organization/repository and 4 developer accounts, then branch protection and the first real PR, followed by Jenkins, four AWS environments, Docker, ECR, and the promotion pipeline.
